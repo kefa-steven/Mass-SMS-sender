@@ -42,7 +42,7 @@ This Python script allows you to send the same SMS message to multiple recipient
         ```python
         csv_file_path = "phone_numbers_template.csv"  # Update if your CSV file has a different name or path
         ```
-    * **(Optional) Modify the default message: Change this default message to your intended message**
+    * **Modify the default message: Change this default message to your intended message**
         ```python
         message_to_send = "Hello everyone! This is a mass announcement sent via Karibu API."  # Your mass message here
         ```
